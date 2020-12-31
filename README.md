@@ -1,5 +1,5 @@
 # Vibr-eye (formally Paligate):
-Code and other data for our first-year design project
+Code and other data relating to a project created in first year, which was both a part of a course (ES1050) and formally submitted to the Western Engineering Competition (2nd Place).
 
 ## Second Iteration
 The second part, which was geared towards the first-year design project. The main solution was aimed towards aiding the visually impaired in more easily kayaking, a service that local charity Abilities in Motion adminsters to the public. It used a Raspberry Pi to collect real time vision data, and track the moving kayaks in the group. This data is then communicated to the on-vest Arduino Uno, which features a wireless data transmitter and an array of vibration motors that provide the wearer with haptic feedback.
